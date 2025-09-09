@@ -3,6 +3,7 @@ public class Computer
     private String hersteller;
     private boolean laptop;
     private int preis;
+    private int welchesJahr;
     
     public String getHersteller(){
         return hersteller;
